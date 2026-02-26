@@ -3,7 +3,7 @@
 readme_content= """ 
 # Mi primer ETL con Python
 
-## Pipeline ETL que procesa datos de e-commerce para generar emtrica de ventas
+## Pipeline ETL que procesa datos de e-commerce para generar métrica de ventas
 
 ## Cómo correr
  ```bash
